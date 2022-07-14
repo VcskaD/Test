@@ -19,6 +19,7 @@ void main() {
     b = 48;
     expect(lcm(a, b), equals(144));
   });
+  
 
 
   // Test LCM
